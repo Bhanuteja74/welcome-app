@@ -1,0 +1,7 @@
+# Ignore build artifacts
+build/
+*.tar.gz
+*.app
+
+# macOS system junk
+.DS_Store
